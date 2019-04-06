@@ -1,0 +1,3 @@
+rootProject.name = 'baiano_2027'
+
+include ':app'
